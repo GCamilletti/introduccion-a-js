@@ -1,0 +1,33 @@
+.cuadrado {
+width: 300px;
+height: 300px;
+border: none;
+position: absolute;
+}
+#contenedor{
+  width: 750px;
+height: 750px;
+border: none;
+position: relative;  
+}
+#cuadrado-1 {
+ background-color: red;
+ top: 50px;
+ right: 50px;
+}
+
+#cuadrado-2{
+ background-color: #0000ff;
+ top: 50px;
+ right: 400px;
+}
+#cuadrado-3 {
+ background-color: green;
+ top: 400px;
+ right: 50px;
+}
+#cuadrado-4 {
+ background-color: yellow;
+ top: 400px;
+ right: 400px;
+}
